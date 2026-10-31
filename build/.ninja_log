@@ -1,5 +1,0 @@
-# ninja log v7
-4	134	8151844529605953	CMakeFiles/mathlib.dir/src/add.cpp.obj	940b6b56764fc897
-20	493	8151844529760478	CMakeFiles/test_add.dir/tests/test_add.cpp.obj	2eba4f4a2ff2b750
-135	917	8151844530911708	libmathlib.a	40c00e59c130c28c
-917	1041	8151844538728953	test_add.exe	957dea29c4106485

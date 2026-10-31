@@ -1,7 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"E:/github-action/github-action-lab-notes/examples/cpp-cmake/build/cmake_install.cmake"
-	],
-	"Parallel" : false
-}
