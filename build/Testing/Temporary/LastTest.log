@@ -1,0 +1,19 @@
+Start testing: Nov 01 05:14 中国标准时间
+----------------------------------------------------------
+1/1 Testing: test_add
+1/1 Test: test_add
+Command: "E:/github-action/github-action-lab-notes/examples/cpp-cmake/build/test_add.exe"
+Directory: E:/github-action/github-action-lab-notes/examples/cpp-cmake/build
+"test_add" start time: Nov 01 05:14 中国标准时间
+Output:
+----------------------------------------------------------
+All tests passed!
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"test_add" end time: Nov 01 05:14 中国标准时间
+"test_add" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 01 05:14 中国标准时间
